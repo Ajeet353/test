@@ -10,6 +10,7 @@ public class PsaApplication {
         int y=198;
         int x =100;
 	double z =10.3	
+       float m =10.3;
 	SpringApplication.run(PsaApplication.class, args);
 	}
 
